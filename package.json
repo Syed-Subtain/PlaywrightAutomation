@@ -1,0 +1,21 @@
+{
+  "name": "playwrightautomation",
+  "version": "1.0.0",
+  "description": "Testing the Playwright Features",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed-Subtain/PlaywrightAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syed-Subtain/PlaywrightAutomation/issues"
+  },
+  "homepage": "https://github.com/Syed-Subtain/PlaywrightAutomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
